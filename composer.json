@@ -1,0 +1,20 @@
+{
+  "name": "eojthebrave/songwhip-php",
+  "description": "Basic PHP client for Songwhip.com",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joe Shindelar",
+      "email": "eojthebrave@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Songwhip\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  }
+}
