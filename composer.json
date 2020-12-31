@@ -1,7 +1,7 @@
 {
   "name": "eojthebrave/songwhip-php",
   "description": "Basic PHP client for Songwhip.com",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
